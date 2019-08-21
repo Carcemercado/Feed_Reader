@@ -24,7 +24,7 @@ It should be hidden by default. It should open and close by clicking on the hamb
 
 When loadFeed function is called and completes its work, there should be at least one .entry element within .feed container.
 
-*New Feed Selection
+* New Feed Selection
 
 Should change the contents when new feed is loaded.
 
